@@ -1,5 +1,4 @@
 # Test
   
-Hellooooooooo!!!!!!!!!!!!!!!!
-
-はい
+- [ABC](misc/ABC.md)
+- [cde](docs/cde.md)
